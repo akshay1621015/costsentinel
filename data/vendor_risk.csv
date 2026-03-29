@@ -1,0 +1,9 @@
+vendor_id,vendor_name,category,location,total_spend_inr,agreed_delivery_days,actual_delivery_days,delivery_delay_days,disputes_count,risk_score,risk_level
+V001,SteelTech Suppliers,Steel,Mumbai,4500000,28,45,17,3,100.0,High
+V002,ConcretePro Ltd,Civil,Pune,3200000,30,30,0,0,32.0,Medium
+V003,ElectroFix Systems,MEP,Delhi,2800000,45,72,27,5,100.0,High
+V004,LaborForce India,Labor,Local,1900000,14,35,21,8,100.0,High
+V005,EquipRent Co,Equipment,Mumbai,2200000,21,21,0,1,30.0,Low
+V006,SafetyFirst Pvt,Overhead,Pune,800000,30,30,0,0,8.0,Low
+V007,PipeMaster Ltd,MEP,Chennai,1500000,35,58,23,4,100.0,High
+V008,FinishingTouch Co,Finishing,Local,1200000,28,42,14,3,78.0,High

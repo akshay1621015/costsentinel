@@ -1,0 +1,501 @@
+vendor_id,vendor_name,service_category,monthly_spend_inr,contract_start
+V1000,Tata Consultancy,IT Services,63112,2023-01-01
+V1001,Deloitte India,Consulting,178393,2023-01-01
+V1002,HCL Tech,Cloud Infra,123158,2023-01-01
+V1003,Tata Consultancy,IT Services,404785,2023-01-01
+V1004,Tata Consultancy,IT Services,359588,2023-01-01
+V1005,Accenture Pvt Ltd,Consulting,66663,2023-01-01
+V1006,Infosys Ltd,IT Services,99123,2023-01-01
+V1007,HCL Tech,Cloud Infra,171981,2023-01-01
+V1008,Infosys Ltd,IT Services,344254,2023-01-01
+V1009,HCL Tech,Cloud Infra,425400,2023-01-01
+V1010,Accenture Pvt Ltd,Consulting,165574,2023-01-01
+V1011,Capgemini,IT Services,358944,2023-01-01
+V1012,Deloitte India,Consulting,474374,2023-01-01
+V1013,Infosys Ltd,IT Services,447833,2023-01-01
+V1014,Wipro Technologies,Cloud Infra,416026,2023-01-01
+V1015,Accenture Pvt Ltd,Consulting,228389,2023-01-01
+V1016,Deloitte India,Consulting,131516,2023-01-01
+V1017,HCL Tech,Cloud Infra,450290,2023-01-01
+V1018,KPMG Advisory,Consulting,103587,2023-01-01
+V1019,Tata Consultancy,IT Services,249191,2023-01-01
+V1020,Tata Consultancy,IT Services,238208,2023-01-01
+V1021,KPMG Advisory,Consulting,366526,2023-01-01
+V1022,Deloitte India,Consulting,473167,2023-01-01
+V1023,Infosys Ltd,IT Services,432589,2023-01-01
+V1024,Capgemini,IT Services,331137,2023-01-01
+V1025,Tata Consultancy,IT Services,248461,2023-01-01
+V1026,Tata Consultancy,IT Services,339428,2023-01-01
+V1027,Deloitte India,Consulting,484846,2023-01-01
+V1028,KPMG Advisory,Consulting,352698,2023-01-01
+V1029,HCL Tech,Cloud Infra,419398,2023-01-01
+V1030,Tata Consultancy,IT Services,74025,2023-01-01
+V1031,HCL Tech,Cloud Infra,455310,2023-01-01
+V1032,Deloitte India,Consulting,91833,2023-01-01
+V1033,HCL Tech,Cloud Infra,102953,2023-01-01
+V1034,Accenture Pvt Ltd,Consulting,195738,2023-01-01
+V1035,Capgemini,IT Services,383281,2023-01-01
+V1036,KPMG Advisory,Consulting,135277,2023-01-01
+V1037,KPMG Advisory,Consulting,236264,2023-01-01
+V1038,HCL Tech,Cloud Infra,401364,2023-01-01
+V1039,Deloitte India,Consulting,417955,2023-01-01
+V1040,Tata Consultancy,IT Services,369360,2023-01-01
+V1041,Wipro Technologies,Cloud Infra,330043,2023-01-01
+V1042,HCL Tech,Cloud Infra,135669,2023-01-01
+V1043,Capgemini,IT Services,248943,2023-01-01
+V1044,Deloitte India,Consulting,385544,2023-01-01
+V1045,HCL Tech,Cloud Infra,408935,2023-01-01
+V1046,KPMG Advisory,Consulting,491897,2023-01-01
+V1047,Infosys Ltd,IT Services,170087,2023-01-01
+V1048,Infosys Ltd,IT Services,472075,2023-01-01
+V1049,KPMG Advisory,Consulting,260325,2023-01-01
+V1050,Deloitte India,Consulting,84701,2023-01-01
+V1051,HCL Tech,Cloud Infra,347365,2023-01-01
+V1052,KPMG Advisory,Consulting,161477,2023-01-01
+V1053,Capgemini,IT Services,257425,2023-01-01
+V1054,Capgemini,IT Services,124905,2023-01-01
+V1055,Deloitte India,Consulting,123206,2023-01-01
+V1056,HCL Tech,Cloud Infra,440588,2023-01-01
+V1057,Deloitte India,Consulting,441650,2023-01-01
+V1058,Accenture Pvt Ltd,Consulting,355939,2023-01-01
+V1059,Accenture Pvt Ltd,Consulting,239790,2023-01-01
+V1060,HCL Tech,Cloud Infra,122525,2023-01-01
+V1061,Capgemini,IT Services,97662,2023-01-01
+V1062,Infosys Ltd,IT Services,107487,2023-01-01
+V1063,Wipro Technologies,Cloud Infra,378962,2023-01-01
+V1064,Wipro Technologies,Cloud Infra,465277,2023-01-01
+V1065,Accenture Pvt Ltd,Consulting,362690,2023-01-01
+V1066,Tata Consultancy,IT Services,251728,2023-01-01
+V1067,Accenture Pvt Ltd,Consulting,362417,2023-01-01
+V1068,Capgemini,IT Services,327408,2023-01-01
+V1069,Deloitte India,Consulting,340049,2023-01-01
+V1070,Infosys Ltd,IT Services,406664,2023-01-01
+V1071,Tata Consultancy,IT Services,407412,2023-01-01
+V1072,Deloitte India,Consulting,452967,2023-01-01
+V1073,KPMG Advisory,Consulting,108485,2023-01-01
+V1074,Deloitte India,Consulting,277942,2023-01-01
+V1075,Wipro Technologies,Cloud Infra,287881,2023-01-01
+V1076,Infosys Ltd,IT Services,428584,2023-01-01
+V1077,Deloitte India,Consulting,312451,2023-01-01
+V1078,Wipro Technologies,Cloud Infra,316171,2023-01-01
+V1079,Tata Consultancy,IT Services,377837,2023-01-01
+V1080,Deloitte India,Consulting,491277,2023-01-01
+V1081,HCL Tech,Cloud Infra,130131,2023-01-01
+V1082,KPMG Advisory,Consulting,449775,2023-01-01
+V1083,Wipro Technologies,Cloud Infra,332789,2023-01-01
+V1084,Infosys Ltd,IT Services,364019,2023-01-01
+V1085,KPMG Advisory,Consulting,306170,2023-01-01
+V1086,Infosys Ltd,IT Services,108650,2023-01-01
+V1087,KPMG Advisory,Consulting,486032,2023-01-01
+V1088,Deloitte India,Consulting,175541,2023-01-01
+V1089,Infosys Ltd,IT Services,176286,2023-01-01
+V1090,Tata Consultancy,IT Services,94907,2023-01-01
+V1091,Capgemini,IT Services,477831,2023-01-01
+V1092,Tata Consultancy,IT Services,448774,2023-01-01
+V1093,Wipro Technologies,Cloud Infra,117314,2023-01-01
+V1094,Capgemini,IT Services,338255,2023-01-01
+V1095,Wipro Technologies,Cloud Infra,188966,2023-01-01
+V1096,Accenture Pvt Ltd,Consulting,161043,2023-01-01
+V1097,HCL Tech,Cloud Infra,423790,2023-01-01
+V1098,Deloitte India,Consulting,259186,2023-01-01
+V1099,KPMG Advisory,Consulting,279690,2023-01-01
+V1100,Capgemini,IT Services,113441,2023-01-01
+V1101,HCL Tech,Cloud Infra,167806,2023-01-01
+V1102,Tata Consultancy,IT Services,227254,2023-01-01
+V1103,Infosys Ltd,IT Services,358443,2023-01-01
+V1104,HCL Tech,Cloud Infra,358512,2023-01-01
+V1105,HCL Tech,Cloud Infra,53770,2023-01-01
+V1106,Tata Consultancy,IT Services,421112,2023-01-01
+V1107,Infosys Ltd,IT Services,170031,2023-01-01
+V1108,Tata Consultancy,IT Services,66469,2023-01-01
+V1109,KPMG Advisory,Consulting,87149,2023-01-01
+V1110,HCL Tech,Cloud Infra,196002,2023-01-01
+V1111,Capgemini,IT Services,162321,2023-01-01
+V1112,Wipro Technologies,Cloud Infra,429245,2023-01-01
+V1113,Capgemini,IT Services,177400,2023-01-01
+V1114,Capgemini,IT Services,473360,2023-01-01
+V1115,Accenture Pvt Ltd,Consulting,149829,2023-01-01
+V1116,Tata Consultancy,IT Services,100819,2023-01-01
+V1117,Accenture Pvt Ltd,Consulting,235753,2023-01-01
+V1118,Accenture Pvt Ltd,Consulting,265535,2023-01-01
+V1119,Capgemini,IT Services,432245,2023-01-01
+V1120,Infosys Ltd,IT Services,403036,2023-01-01
+V1121,Tata Consultancy,IT Services,81778,2023-01-01
+V1122,Accenture Pvt Ltd,Consulting,431793,2023-01-01
+V1123,KPMG Advisory,Consulting,469741,2023-01-01
+V1124,Tata Consultancy,IT Services,180367,2023-01-01
+V1125,HCL Tech,Cloud Infra,149724,2023-01-01
+V1126,Capgemini,IT Services,123495,2023-01-01
+V1127,Accenture Pvt Ltd,Consulting,146200,2023-01-01
+V1128,Deloitte India,Consulting,292550,2023-01-01
+V1129,HCL Tech,Cloud Infra,89523,2023-01-01
+V1130,Capgemini,IT Services,473636,2023-01-01
+V1131,Tata Consultancy,IT Services,76522,2023-01-01
+V1132,Infosys Ltd,IT Services,98896,2023-01-01
+V1133,HCL Tech,Cloud Infra,137194,2023-01-01
+V1134,Accenture Pvt Ltd,Consulting,304615,2023-01-01
+V1135,Capgemini,IT Services,162065,2023-01-01
+V1136,Accenture Pvt Ltd,Consulting,80741,2023-01-01
+V1137,Wipro Technologies,Cloud Infra,248691,2023-01-01
+V1138,Infosys Ltd,IT Services,254693,2023-01-01
+V1139,Deloitte India,Consulting,461078,2023-01-01
+V1140,Capgemini,IT Services,199552,2023-01-01
+V1141,Accenture Pvt Ltd,Consulting,415214,2023-01-01
+V1142,Capgemini,IT Services,131158,2023-01-01
+V1143,HCL Tech,Cloud Infra,205560,2023-01-01
+V1144,HCL Tech,Cloud Infra,80662,2023-01-01
+V1145,Infosys Ltd,IT Services,442154,2023-01-01
+V1146,KPMG Advisory,Consulting,79971,2023-01-01
+V1147,Infosys Ltd,IT Services,356277,2023-01-01
+V1148,Capgemini,IT Services,313638,2023-01-01
+V1149,Wipro Technologies,Cloud Infra,79821,2023-01-01
+V1150,Tata Consultancy,IT Services,496348,2023-01-01
+V1151,Wipro Technologies,Cloud Infra,85924,2023-01-01
+V1152,Tata Consultancy,IT Services,404005,2023-01-01
+V1153,HCL Tech,Cloud Infra,261694,2023-01-01
+V1154,Tata Consultancy,IT Services,348673,2023-01-01
+V1155,HCL Tech,Cloud Infra,353520,2023-01-01
+V1156,Infosys Ltd,IT Services,374734,2023-01-01
+V1157,Tata Consultancy,IT Services,269794,2023-01-01
+V1158,KPMG Advisory,Consulting,186716,2023-01-01
+V1159,HCL Tech,Cloud Infra,401129,2023-01-01
+V1160,KPMG Advisory,Consulting,175140,2023-01-01
+V1161,Deloitte India,Consulting,257505,2023-01-01
+V1162,Wipro Technologies,Cloud Infra,402159,2023-01-01
+V1163,Deloitte India,Consulting,289717,2023-01-01
+V1164,KPMG Advisory,Consulting,444193,2023-01-01
+V1165,Tata Consultancy,IT Services,54883,2023-01-01
+V1166,Capgemini,IT Services,375666,2023-01-01
+V1167,Tata Consultancy,IT Services,88409,2023-01-01
+V1168,HCL Tech,Cloud Infra,315229,2023-01-01
+V1169,Deloitte India,Consulting,119445,2023-01-01
+V1170,KPMG Advisory,Consulting,86066,2023-01-01
+V1171,HCL Tech,Cloud Infra,243738,2023-01-01
+V1172,Deloitte India,Consulting,132704,2023-01-01
+V1173,Capgemini,IT Services,487122,2023-01-01
+V1174,Deloitte India,Consulting,370695,2023-01-01
+V1175,Infosys Ltd,IT Services,400152,2023-01-01
+V1176,Deloitte India,Consulting,397806,2023-01-01
+V1177,Tata Consultancy,IT Services,120407,2023-01-01
+V1178,Deloitte India,Consulting,110517,2023-01-01
+V1179,Tata Consultancy,IT Services,439240,2023-01-01
+V1180,Wipro Technologies,Cloud Infra,192788,2023-01-01
+V1181,Deloitte India,Consulting,367105,2023-01-01
+V1182,HCL Tech,Cloud Infra,426235,2023-01-01
+V1183,KPMG Advisory,Consulting,156743,2023-01-01
+V1184,Deloitte India,Consulting,314979,2023-01-01
+V1185,Capgemini,IT Services,181659,2023-01-01
+V1186,Infosys Ltd,IT Services,98390,2023-01-01
+V1187,Accenture Pvt Ltd,Consulting,484817,2023-01-01
+V1188,Deloitte India,Consulting,73114,2023-01-01
+V1189,Infosys Ltd,IT Services,224879,2023-01-01
+V1190,Wipro Technologies,Cloud Infra,384030,2023-01-01
+V1191,Deloitte India,Consulting,134715,2023-01-01
+V1192,Capgemini,IT Services,339239,2023-01-01
+V1193,Accenture Pvt Ltd,Consulting,344076,2023-01-01
+V1194,Infosys Ltd,IT Services,108654,2023-01-01
+V1195,Tata Consultancy,IT Services,412293,2023-01-01
+V1196,Wipro Technologies,Cloud Infra,336046,2023-01-01
+V1197,Infosys Ltd,IT Services,487568,2023-01-01
+V1198,KPMG Advisory,Consulting,355402,2023-01-01
+V1199,Wipro Technologies,Cloud Infra,275332,2023-01-01
+V1200,Wipro Technologies,Cloud Infra,71930,2023-01-01
+V1201,Deloitte India,Consulting,241182,2023-01-01
+V1202,Infosys Ltd,IT Services,237595,2023-01-01
+V1203,HCL Tech,Cloud Infra,407599,2023-01-01
+V1204,HCL Tech,Cloud Infra,399665,2023-01-01
+V1205,Tata Consultancy,IT Services,235429,2023-01-01
+V1206,Accenture Pvt Ltd,Consulting,375405,2023-01-01
+V1207,Wipro Technologies,Cloud Infra,174118,2023-01-01
+V1208,Wipro Technologies,Cloud Infra,469371,2023-01-01
+V1209,Wipro Technologies,Cloud Infra,266161,2023-01-01
+V1210,Infosys Ltd,IT Services,144036,2023-01-01
+V1211,KPMG Advisory,Consulting,460195,2023-01-01
+V1212,Accenture Pvt Ltd,Consulting,470602,2023-01-01
+V1213,HCL Tech,Cloud Infra,189883,2023-01-01
+V1214,Wipro Technologies,Cloud Infra,462811,2023-01-01
+V1215,Tata Consultancy,IT Services,250562,2023-01-01
+V1216,Infosys Ltd,IT Services,296777,2023-01-01
+V1217,HCL Tech,Cloud Infra,154633,2023-01-01
+V1218,Capgemini,IT Services,233321,2023-01-01
+V1219,Deloitte India,Consulting,480197,2023-01-01
+V1220,HCL Tech,Cloud Infra,166876,2023-01-01
+V1221,Infosys Ltd,IT Services,396047,2023-01-01
+V1222,HCL Tech,Cloud Infra,258910,2023-01-01
+V1223,KPMG Advisory,Consulting,196068,2023-01-01
+V1224,Tata Consultancy,IT Services,455445,2023-01-01
+V1225,Deloitte India,Consulting,234101,2023-01-01
+V1226,Accenture Pvt Ltd,Consulting,406263,2023-01-01
+V1227,KPMG Advisory,Consulting,64470,2023-01-01
+V1228,Tata Consultancy,IT Services,186951,2023-01-01
+V1229,Wipro Technologies,Cloud Infra,354396,2023-01-01
+V1230,Deloitte India,Consulting,70057,2023-01-01
+V1231,Tata Consultancy,IT Services,362775,2023-01-01
+V1232,Accenture Pvt Ltd,Consulting,231239,2023-01-01
+V1233,KPMG Advisory,Consulting,278796,2023-01-01
+V1234,Tata Consultancy,IT Services,251953,2023-01-01
+V1235,HCL Tech,Cloud Infra,183547,2023-01-01
+V1236,Infosys Ltd,IT Services,421607,2023-01-01
+V1237,Accenture Pvt Ltd,Consulting,50886,2023-01-01
+V1238,HCL Tech,Cloud Infra,240956,2023-01-01
+V1239,Accenture Pvt Ltd,Consulting,86686,2023-01-01
+V1240,KPMG Advisory,Consulting,376712,2023-01-01
+V1241,KPMG Advisory,Consulting,397806,2023-01-01
+V1242,Tata Consultancy,IT Services,427358,2023-01-01
+V1243,Deloitte India,Consulting,315878,2023-01-01
+V1244,Deloitte India,Consulting,399643,2023-01-01
+V1245,Accenture Pvt Ltd,Consulting,221013,2023-01-01
+V1246,Accenture Pvt Ltd,Consulting,415538,2023-01-01
+V1247,Deloitte India,Consulting,340671,2023-01-01
+V1248,Wipro Technologies,Cloud Infra,150579,2023-01-01
+V1249,Accenture Pvt Ltd,Consulting,398614,2023-01-01
+V1250,Accenture Pvt Ltd,Consulting,405109,2023-01-01
+V1251,Wipro Technologies,Cloud Infra,372707,2023-01-01
+V1252,Deloitte India,Consulting,262900,2023-01-01
+V1253,Infosys Ltd,IT Services,209317,2023-01-01
+V1254,Deloitte India,Consulting,160196,2023-01-01
+V1255,Accenture Pvt Ltd,Consulting,461963,2023-01-01
+V1256,KPMG Advisory,Consulting,293787,2023-01-01
+V1257,Capgemini,IT Services,281819,2023-01-01
+V1258,HCL Tech,Cloud Infra,318002,2023-01-01
+V1259,Capgemini,IT Services,466145,2023-01-01
+V1260,Wipro Technologies,Cloud Infra,395427,2023-01-01
+V1261,Tata Consultancy,IT Services,198785,2023-01-01
+V1262,KPMG Advisory,Consulting,98961,2023-01-01
+V1263,HCL Tech,Cloud Infra,402738,2023-01-01
+V1264,Deloitte India,Consulting,167776,2023-01-01
+V1265,HCL Tech,Cloud Infra,127255,2023-01-01
+V1266,Infosys Ltd,IT Services,74229,2023-01-01
+V1267,HCL Tech,Cloud Infra,299108,2023-01-01
+V1268,Tata Consultancy,IT Services,288769,2023-01-01
+V1269,Accenture Pvt Ltd,Consulting,380178,2023-01-01
+V1270,HCL Tech,Cloud Infra,426620,2023-01-01
+V1271,Accenture Pvt Ltd,Consulting,309196,2023-01-01
+V1272,Accenture Pvt Ltd,Consulting,177918,2023-01-01
+V1273,Wipro Technologies,Cloud Infra,393963,2023-01-01
+V1274,Infosys Ltd,IT Services,443721,2023-01-01
+V1275,Tata Consultancy,IT Services,458116,2023-01-01
+V1276,Accenture Pvt Ltd,Consulting,164735,2023-01-01
+V1277,Wipro Technologies,Cloud Infra,471585,2023-01-01
+V1278,Capgemini,IT Services,76328,2023-01-01
+V1279,HCL Tech,Cloud Infra,494772,2023-01-01
+V1280,Tata Consultancy,IT Services,289317,2023-01-01
+V1281,Wipro Technologies,Cloud Infra,470173,2023-01-01
+V1282,Capgemini,IT Services,400002,2023-01-01
+V1283,KPMG Advisory,Consulting,445968,2023-01-01
+V1284,Capgemini,IT Services,371206,2023-01-01
+V1285,Accenture Pvt Ltd,Consulting,485457,2023-01-01
+V1286,Capgemini,IT Services,133444,2023-01-01
+V1287,Capgemini,IT Services,285966,2023-01-01
+V1288,Deloitte India,Consulting,444147,2023-01-01
+V1289,HCL Tech,Cloud Infra,490330,2023-01-01
+V1290,Deloitte India,Consulting,451506,2023-01-01
+V1291,Capgemini,IT Services,378596,2023-01-01
+V1292,HCL Tech,Cloud Infra,193968,2023-01-01
+V1293,Capgemini,IT Services,90623,2023-01-01
+V1294,Deloitte India,Consulting,172942,2023-01-01
+V1295,Deloitte India,Consulting,226080,2023-01-01
+V1296,KPMG Advisory,Consulting,333195,2023-01-01
+V1297,Tata Consultancy,IT Services,122547,2023-01-01
+V1298,Wipro Technologies,Cloud Infra,171247,2023-01-01
+V1299,Accenture Pvt Ltd,Consulting,413829,2023-01-01
+V1300,Wipro Technologies,Cloud Infra,420367,2023-01-01
+V1301,HCL Tech,Cloud Infra,83674,2023-01-01
+V1302,Accenture Pvt Ltd,Consulting,263699,2023-01-01
+V1303,KPMG Advisory,Consulting,334484,2023-01-01
+V1304,Capgemini,IT Services,267985,2023-01-01
+V1305,Infosys Ltd,IT Services,158440,2023-01-01
+V1306,Accenture Pvt Ltd,Consulting,254198,2023-01-01
+V1307,Infosys Ltd,IT Services,499174,2023-01-01
+V1308,Accenture Pvt Ltd,Consulting,300074,2023-01-01
+V1309,Infosys Ltd,IT Services,234422,2023-01-01
+V1310,Deloitte India,Consulting,445037,2023-01-01
+V1311,Accenture Pvt Ltd,Consulting,497452,2023-01-01
+V1312,Accenture Pvt Ltd,Consulting,332182,2023-01-01
+V1313,HCL Tech,Cloud Infra,305972,2023-01-01
+V1314,HCL Tech,Cloud Infra,193096,2023-01-01
+V1315,Accenture Pvt Ltd,Consulting,304616,2023-01-01
+V1316,Infosys Ltd,IT Services,253873,2023-01-01
+V1317,KPMG Advisory,Consulting,400682,2023-01-01
+V1318,Accenture Pvt Ltd,Consulting,429679,2023-01-01
+V1319,Wipro Technologies,Cloud Infra,490667,2023-01-01
+V1320,Capgemini,IT Services,116913,2023-01-01
+V1321,Infosys Ltd,IT Services,256580,2023-01-01
+V1322,Infosys Ltd,IT Services,94012,2023-01-01
+V1323,Accenture Pvt Ltd,Consulting,121145,2023-01-01
+V1324,Capgemini,IT Services,145278,2023-01-01
+V1325,Infosys Ltd,IT Services,186396,2023-01-01
+V1326,Accenture Pvt Ltd,Consulting,221627,2023-01-01
+V1327,HCL Tech,Cloud Infra,288393,2023-01-01
+V1328,KPMG Advisory,Consulting,226947,2023-01-01
+V1329,Accenture Pvt Ltd,Consulting,195886,2023-01-01
+V1330,Accenture Pvt Ltd,Consulting,182262,2023-01-01
+V1331,Tata Consultancy,IT Services,296576,2023-01-01
+V1332,Infosys Ltd,IT Services,442704,2023-01-01
+V1333,Infosys Ltd,IT Services,233480,2023-01-01
+V1334,HCL Tech,Cloud Infra,390862,2023-01-01
+V1335,Tata Consultancy,IT Services,459591,2023-01-01
+V1336,Infosys Ltd,IT Services,445435,2023-01-01
+V1337,Infosys Ltd,IT Services,179647,2023-01-01
+V1338,HCL Tech,Cloud Infra,489997,2023-01-01
+V1339,Infosys Ltd,IT Services,375758,2023-01-01
+V1340,Wipro Technologies,Cloud Infra,175066,2023-01-01
+V1341,Wipro Technologies,Cloud Infra,298282,2023-01-01
+V1342,Tata Consultancy,IT Services,345682,2023-01-01
+V1343,HCL Tech,Cloud Infra,293811,2023-01-01
+V1344,Deloitte India,Consulting,452075,2023-01-01
+V1345,KPMG Advisory,Consulting,137969,2023-01-01
+V1346,Tata Consultancy,IT Services,457786,2023-01-01
+V1347,Wipro Technologies,Cloud Infra,213073,2023-01-01
+V1348,Tata Consultancy,IT Services,353397,2023-01-01
+V1349,Infosys Ltd,IT Services,213555,2023-01-01
+V1350,Accenture Pvt Ltd,Consulting,257961,2023-01-01
+V1351,HCL Tech,Cloud Infra,89844,2023-01-01
+V1352,HCL Tech,Cloud Infra,103425,2023-01-01
+V1353,Deloitte India,Consulting,495798,2023-01-01
+V1354,Tata Consultancy,IT Services,467452,2023-01-01
+V1355,Infosys Ltd,IT Services,232034,2023-01-01
+V1356,Accenture Pvt Ltd,Consulting,396827,2023-01-01
+V1357,KPMG Advisory,Consulting,86153,2023-01-01
+V1358,KPMG Advisory,Consulting,56633,2023-01-01
+V1359,Accenture Pvt Ltd,Consulting,481138,2023-01-01
+V1360,Capgemini,IT Services,105332,2023-01-01
+V1361,Accenture Pvt Ltd,Consulting,239890,2023-01-01
+V1362,Capgemini,IT Services,420833,2023-01-01
+V1363,Wipro Technologies,Cloud Infra,278320,2023-01-01
+V1364,Wipro Technologies,Cloud Infra,434720,2023-01-01
+V1365,Deloitte India,Consulting,372915,2023-01-01
+V1366,Capgemini,IT Services,293727,2023-01-01
+V1367,Accenture Pvt Ltd,Consulting,482922,2023-01-01
+V1368,Deloitte India,Consulting,218980,2023-01-01
+V1369,HCL Tech,Cloud Infra,485542,2023-01-01
+V1370,Tata Consultancy,IT Services,196238,2023-01-01
+V1371,Capgemini,IT Services,177854,2023-01-01
+V1372,Capgemini,IT Services,348765,2023-01-01
+V1373,Accenture Pvt Ltd,Consulting,226368,2023-01-01
+V1374,Infosys Ltd,IT Services,309158,2023-01-01
+V1375,KPMG Advisory,Consulting,145336,2023-01-01
+V1376,Capgemini,IT Services,161211,2023-01-01
+V1377,KPMG Advisory,Consulting,468293,2023-01-01
+V1378,Deloitte India,Consulting,228435,2023-01-01
+V1379,Deloitte India,Consulting,362556,2023-01-01
+V1380,Deloitte India,Consulting,341394,2023-01-01
+V1381,Infosys Ltd,IT Services,320861,2023-01-01
+V1382,HCL Tech,Cloud Infra,94885,2023-01-01
+V1383,HCL Tech,Cloud Infra,427526,2023-01-01
+V1384,Accenture Pvt Ltd,Consulting,306155,2023-01-01
+V1385,HCL Tech,Cloud Infra,412078,2023-01-01
+V1386,Capgemini,IT Services,388639,2023-01-01
+V1387,Capgemini,IT Services,284972,2023-01-01
+V1388,Infosys Ltd,IT Services,98786,2023-01-01
+V1389,Deloitte India,Consulting,166180,2023-01-01
+V1390,Accenture Pvt Ltd,Consulting,412695,2023-01-01
+V1391,HCL Tech,Cloud Infra,210540,2023-01-01
+V1392,KPMG Advisory,Consulting,298124,2023-01-01
+V1393,KPMG Advisory,Consulting,273086,2023-01-01
+V1394,KPMG Advisory,Consulting,234450,2023-01-01
+V1395,Capgemini,IT Services,192038,2023-01-01
+V1396,Deloitte India,Consulting,181807,2023-01-01
+V1397,HCL Tech,Cloud Infra,113258,2023-01-01
+V1398,HCL Tech,Cloud Infra,215438,2023-01-01
+V1399,Tata Consultancy,IT Services,439483,2023-01-01
+V1400,Wipro Technologies,Cloud Infra,150422,2023-01-01
+V1401,HCL Tech,Cloud Infra,437241,2023-01-01
+V1402,Capgemini,IT Services,194965,2023-01-01
+V1403,Deloitte India,Consulting,102704,2023-01-01
+V1404,HCL Tech,Cloud Infra,205318,2023-01-01
+V1405,HCL Tech,Cloud Infra,239205,2023-01-01
+V1406,Wipro Technologies,Cloud Infra,208475,2023-01-01
+V1407,Infosys Ltd,IT Services,421205,2023-01-01
+V1408,Wipro Technologies,Cloud Infra,193818,2023-01-01
+V1409,Infosys Ltd,IT Services,78587,2023-01-01
+V1410,Deloitte India,Consulting,415647,2023-01-01
+V1411,Wipro Technologies,Cloud Infra,384427,2023-01-01
+V1412,Capgemini,IT Services,103785,2023-01-01
+V1413,Infosys Ltd,IT Services,350974,2023-01-01
+V1414,Deloitte India,Consulting,296099,2023-01-01
+V1415,Capgemini,IT Services,280932,2023-01-01
+V1416,KPMG Advisory,Consulting,146659,2023-01-01
+V1417,Infosys Ltd,IT Services,182371,2023-01-01
+V1418,Capgemini,IT Services,109814,2023-01-01
+V1419,Tata Consultancy,IT Services,260086,2023-01-01
+D2000,Infosys Limited,IT Services,307816,2023-06-01
+D2001,TCS India,IT Services,88840,2023-06-01
+D2002,Wipro Tech Pvt,Cloud Infra,352525,2023-06-01
+D2003,HCL Technologies Ltd,Cloud Infra,380010,2023-06-01
+D2004,Deloitte Consulting,Consulting,409898,2023-06-01
+D2005,KPMG India,Consulting,78106,2023-06-01
+D2006,Accenture India,Consulting,129548,2023-06-01
+D2007,Cap Gemini India,IT Services,128222,2023-06-01
+D2008,Infosys Limited,IT Services,475272,2023-06-01
+D2009,TCS India,IT Services,345090,2023-06-01
+D2010,Wipro Tech Pvt,Cloud Infra,209297,2023-06-01
+D2011,HCL Technologies Ltd,Cloud Infra,94659,2023-06-01
+D2012,Deloitte Consulting,Consulting,180123,2023-06-01
+D2013,KPMG India,Consulting,112102,2023-06-01
+D2014,Accenture India,Consulting,342590,2023-06-01
+D2015,Cap Gemini India,IT Services,450788,2023-06-01
+D2016,Infosys Limited,IT Services,268195,2023-06-01
+D2017,TCS India,IT Services,367885,2023-06-01
+D2018,Wipro Tech Pvt,Cloud Infra,362542,2023-06-01
+D2019,HCL Technologies Ltd,Cloud Infra,464575,2023-06-01
+D2020,Deloitte Consulting,Consulting,374229,2023-06-01
+D2021,KPMG India,Consulting,168325,2023-06-01
+D2022,Accenture India,Consulting,456686,2023-06-01
+D2023,Cap Gemini India,IT Services,323978,2023-06-01
+D2024,Infosys Limited,IT Services,249427,2023-06-01
+D2025,TCS India,IT Services,286199,2023-06-01
+D2026,Wipro Tech Pvt,Cloud Infra,282113,2023-06-01
+D2027,HCL Technologies Ltd,Cloud Infra,205898,2023-06-01
+D2028,Deloitte Consulting,Consulting,358556,2023-06-01
+D2029,KPMG India,Consulting,274830,2023-06-01
+D2030,Accenture India,Consulting,210107,2023-06-01
+D2031,Cap Gemini India,IT Services,348125,2023-06-01
+D2032,Infosys Limited,IT Services,375597,2023-06-01
+D2033,TCS India,IT Services,81578,2023-06-01
+D2034,Wipro Tech Pvt,Cloud Infra,369622,2023-06-01
+D2035,HCL Technologies Ltd,Cloud Infra,438019,2023-06-01
+D2036,Deloitte Consulting,Consulting,102026,2023-06-01
+D2037,KPMG India,Consulting,449893,2023-06-01
+D2038,Accenture India,Consulting,158940,2023-06-01
+D2039,Cap Gemini India,IT Services,377950,2023-06-01
+D2040,Infosys Limited,IT Services,160637,2023-06-01
+D2041,TCS India,IT Services,188750,2023-06-01
+D2042,Wipro Tech Pvt,Cloud Infra,396254,2023-06-01
+D2043,HCL Technologies Ltd,Cloud Infra,92565,2023-06-01
+D2044,Deloitte Consulting,Consulting,132343,2023-06-01
+D2045,KPMG India,Consulting,175758,2023-06-01
+D2046,Accenture India,Consulting,141128,2023-06-01
+D2047,Cap Gemini India,IT Services,339402,2023-06-01
+D2048,Infosys Limited,IT Services,89355,2023-06-01
+D2049,TCS India,IT Services,132068,2023-06-01
+D2050,Wipro Tech Pvt,Cloud Infra,51402,2023-06-01
+D2051,HCL Technologies Ltd,Cloud Infra,264180,2023-06-01
+D2052,Deloitte Consulting,Consulting,286193,2023-06-01
+D2053,KPMG India,Consulting,411429,2023-06-01
+D2054,Accenture India,Consulting,361328,2023-06-01
+D2055,Cap Gemini India,IT Services,296369,2023-06-01
+D2056,Infosys Limited,IT Services,202703,2023-06-01
+D2057,TCS India,IT Services,67112,2023-06-01
+D2058,Wipro Tech Pvt,Cloud Infra,171360,2023-06-01
+D2059,HCL Technologies Ltd,Cloud Infra,201049,2023-06-01
+D2060,Deloitte Consulting,Consulting,420648,2023-06-01
+D2061,KPMG India,Consulting,198225,2023-06-01
+D2062,Accenture India,Consulting,418567,2023-06-01
+D2063,Cap Gemini India,IT Services,288043,2023-06-01
+D2064,Infosys Limited,IT Services,87318,2023-06-01
+D2065,TCS India,IT Services,410387,2023-06-01
+D2066,Wipro Tech Pvt,Cloud Infra,172381,2023-06-01
+D2067,HCL Technologies Ltd,Cloud Infra,188702,2023-06-01
+D2068,Deloitte Consulting,Consulting,463048,2023-06-01
+D2069,KPMG India,Consulting,464841,2023-06-01
+D2070,Accenture India,Consulting,377710,2023-06-01
+D2071,Cap Gemini India,IT Services,359219,2023-06-01
+D2072,Infosys Limited,IT Services,396650,2023-06-01
+D2073,TCS India,IT Services,471478,2023-06-01
+D2074,Wipro Tech Pvt,Cloud Infra,153714,2023-06-01
+D2075,HCL Technologies Ltd,Cloud Infra,272895,2023-06-01
+D2076,Deloitte Consulting,Consulting,110175,2023-06-01
+D2077,KPMG India,Consulting,335507,2023-06-01
+D2078,Accenture India,Consulting,167864,2023-06-01
+D2079,Cap Gemini India,IT Services,389547,2023-06-01

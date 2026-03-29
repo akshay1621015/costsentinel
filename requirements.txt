@@ -1,0 +1,12 @@
+streamlit
+langgraph
+langchain-groq
+groq
+pandas
+rapidfuzz
+fastapi
+uvicorn
+python-dotenv
+plotly
+tavily-python
+numpy
