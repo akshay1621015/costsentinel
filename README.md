@@ -37,6 +37,29 @@ CostSentinel is a **4-agent AI system** that:
 
 **Total Identifiable Savings: ₹43,50,000**
 
+## 📊 Detailed Impact Model
+
+### 1. Vendor Duplication
+- Duplicate vendors detected: ~12–15 pairs
+- Avg monthly spend per vendor: ₹1.5L
+- Potential consolidation saving: 30%
+- 👉 Annual Savings ≈ ₹15–20 Lakhs
+
+### 2. Cloud Cost Spike
+- Spike detected: 40% increase (₹8L → ₹12L)
+- Root cause: Auto-scaling misconfiguration
+- Recoverable cost: ~30%
+- 👉 Savings ≈ ₹3–5 Lakhs
+
+### 3. SLA Breach Prevention
+- Tasks at risk: ~8–10
+- Estimated penalty per breach: ₹25K–₹50K
+- Preventable breaches: 8
+- 👉 Savings ≈ ₹2–4 Lakhs
+
+### 💰 Total Estimated Impact
+👉 ₹20–30 Lakhs annual savings
+
 ## 🛠️ Tech Stack
 - **Orchestration:** LangGraph
 - **LLM (Reasoning):** Llama 3.3-70B via Groq
@@ -116,6 +139,6 @@ At enterprise scale (500+ vendors, 10+ projects):
 Estimated **₹2-5 Cr annual savings** per large construction company
 
 ## 👤 Built By
-Akshay Tyagi | MBA (Business Analytics) | IIM Sambalpur
-Abhay Singh Jamwal | MBA (Business Analytics) | IIM Sambalpur
+Akshay Tyagi | MBA (Business Analytics) | IIM Sambalpur,
+Abhay Singh Jamwal | MBA (Business Analytics) | IIM Sambalpur,
 Parth Kodape | MBA (Business Analytics) | IIM Sambalpur
